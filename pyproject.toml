@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "Elden Ring DeLag Manager"
+version = "0.1.0"
+description = "TK GUI For managing the installation of a functioning DXVK3D Installation and Toggler for EAC"
+authors = ["Gideon Felt <gideon@feltslanding.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = ""
+
+[tool.poetry.dependencies]
+python = "^3.9"
+loguru = "0.5.3"
+loguru-logging-intercept = "*"
+
+
+
+[tool.poetry.dev-dependencies]
+setuptools = "60.5.0"
+
+
+[build-system]
+requires = ["poetry-core==1.1.12"]
+build-backend = "poetry.core.masonry.api"
