@@ -7,12 +7,12 @@ I implemented wasn't gonna trigger a ban. and I also implemented a simple way to
 [soupsteam](https://github.com/soupstream/EldenRingStutterFix) <br>
 soupstream suggests using [Special K](https://discourse.differentk.fyi/t/download-special-k/1461) 
 as they implement the same fix and many others
-but I didn't want to have such a complex <br>
+but I didn't want to have such a complex 
 solution installed on-top my game just to convert the dx12 api to vulkan.
-I've had great success with soupstream's patch, and am now able to <br>
+I've had great success with soupstream's patch, and am now able to 
 run my game at max performance settings whereas before I had stuttering when attempting those settings.<br>
 I may add alternate tweak additions to this project to add more features or better *delag solutions*,
-but I'm not sure if I'll do that yet.<br>
+but I'm not sure if I'll do that yet. 
 Feel free to fork this and add on as many features as you want,
 the main benefit being the EAC monitoring<br>
 and the warning system if you try to run EAC with the other tweaks enabled.<br>
